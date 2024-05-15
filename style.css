@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.main-bg-color{
+    background-color: #212121;
+}
+.card-bg-color{
+    background-color: #424242;
+}
+.card-secondary-bg-color{
+    background-color: #3b3b3b;
+}
+ul{
+    list-style: none;
+}
+#search{
+    border: none;
+    outline: none;
+    background: none;
+}
